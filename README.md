@@ -343,6 +343,17 @@ Selected as **1 of 2 undergraduates from 140 applicants** for the TRIWIN × ABB 
 
 🥇 A+ Grade in Drone Workshop by AEGIS TECHNOLOGIES | Vyom Indigenous Flight Controler
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Kunalbaviskar125&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E&stroke=0D1117" />
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kunalbaviskar125&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" />
+
+</div>
 
 ### 📚 Currently Learning
 
