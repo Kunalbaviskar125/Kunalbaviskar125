@@ -8,19 +8,19 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/kunal-narendra-baviskar-robotics125" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kunal-narendra-baviskar-robotics125"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Kunalbaviskar125">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/">
+<a href="https://x.com/Kunal_aaru">
 <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/">
+<a href="https://medium.com/@cyberbuddy.in">
 <img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
@@ -36,31 +36,21 @@
 
 ## 👋 About Me
 
-🤖 **Automation & Robotics Engineering student** passionate about building intelligent systems that solve real-world problems.
+Hello! I'm **Kunal**, an **Automation & Robotics Engineering student** who enjoys turning engineering ideas into working systems.
 
-🧠 Working at the intersection of **Robotics • AI • Embedded Systems • Industrial Automation**
+🤖 I work across **Robotics, AI, Embedded Systems, and Industrial Automation**, with a hands-on approach to understanding problems, designing systems, building prototypes, testing them, and improving them.
 
-🦾 Interested in **Robotics R&D, Intelligent Systems, CAD, Control Systems, 3D Printing & Product Development**
+🦾 My current technical focus includes **ROS 2, C/C++, Python, Embedded Systems, Robotics Kinematics, Control Systems, PLC, SCADA, CAD, and PCB Design**.
 
-🏭 Currently working with **ABB India** on **Process & Workflow Digitalization**.
+🏭 I'm currently working with **ABB India** in **Digitalisation & Product Development**, where I'm gaining practical experience with **Power Apps, engineering workflows, process improvement, documentation, SIPOC, DMAIC, and Systems Thinking**.
 
-🚀 My goal is to bridge **AI + Robotics + Engineering** and turn ideas into working systems.
----
+🚀 I'm working toward a career in **Robotics R&D and Intelligent Systems**, with a focus on combining **AI + Robotics + Embedded Systems + Automation** to solve practical engineering problems.
 
-### 🚀 About Me
+### 🎯 What I Like Building
 
-🤖 Automation & Robotics Engineering student passionate about building
-intelligent systems that solve real-world problems.
+**Intelligent Robots** • **AI Systems** • **Embedded Solutions** • **Automation Systems** • **Engineering Prototypes**
 
-🧠 Working at the intersection of:
-Robotics • AI • Embedded Systems • Industrial Automation
-
-🏭 Currently working with ABB India in Digitalization & Product Development.
-
-🔬 Interested in Robotics R&D, Intelligent Systems, Product Development,
-CAD, 3D Printing and Engineering Innovation.
-
-⚡ I believe in learning by building — turning ideas into working systems.
+🤝 Always open to **learning, collaborating, and building something meaningful.**
 
 ---
 
@@ -94,47 +84,38 @@ CAD, 3D Printing and Engineering Innovation.
 
 </p>
 
-### 🧠 AI / ML / DL — Currently Learning
+## 🧠 AI & Machine Learning
+
+### ⚡ Building With
 
 <p align="center">
 
-<!-- Generative AI -->
-<img src="https://img.shields.io/badge/Generative_AI-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-5E35B1?style=for-the-badge"/>
-
-<!-- AI Frameworks -->
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-<!-- Machine Learning -->
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-<!-- Data Science -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<!-- Deep Learning -->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<!-- Computer Vision -->
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-
-<!-- APIs -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Search-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Workflows-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
+
+### 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-0F9D58?style=for-the-badge"/>
 
 </p>
 
@@ -382,13 +363,14 @@ I'm interested in opportunities involving:
 ⚙️ Automation & Embedded Systems  
 🔧 CAD & Product Development  
 🚀 Engineering Innovation
+
 ---
 ## 🔗 Connect with Me
 
 <p align="Center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kunal-narendra-baviskar-robotics125"/>
 </a>
 
 <a href="https://x.com/YOUR-X-USERNAME" target="_blank">
@@ -414,11 +396,10 @@ I'm interested in opportunities involving:
 </p>
 
 ---
-
 <p align="center">
   <i>Let's connect, collaborate, and build something meaningful. 🚀</i>
 </p>
----
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
